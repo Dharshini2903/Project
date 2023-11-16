@@ -1,0 +1,30 @@
+
+Requirements:
+
+Header Section:
+Navbar with three anchor tags: HOME,SERVICES,CONTACT.
+
+Home Section:
+Display the client's name as the heading.
+Include a photo of the client (use a placeholder).
+
+Services Section:
+Include two cards with the following details:
+
+* Content Creator
+Description: "Bring your ideas to life with engaging and creative content tailored to your audience."
+
+* Social Media Marketer
+Description: "Strategic planning and execution to maximize your reach and impact on various social media platforms."
+
+Contact Section:
+Display a contact phone number.
+Display an email address for inquiries.
+
+Styling:
+Use a clean and professional design.
+Use a simple color scheme that complements your client's brand (consider using your client's brand colors).
+Ensure the page is mobile-responsive.
+
+Footer:
+Include a footer section with a copyright notice and the current year.
